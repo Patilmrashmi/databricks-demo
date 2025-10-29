@@ -1,1 +1,1 @@
-SELECT * FROM samples.nyctaxi.trip LIMIT 10;
+SELECT * FROM samples.nyctaxi.trips LIMIT 10;
